@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishik-srivathsava)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishiksrivathsava22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalluririshi24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishi-s22)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rishi-s22.github.io)
 <a href="https://www.buymeacoffee.com/rishiy" target="_blank">
@@ -106,24 +106,24 @@
 
 <div align="center">
 
-<!-- Core Telemetry Badges -->
+<!-- Core Telemetry Badges (Single Set) -->
 [![GitHub Followers](https://img.shields.io/github/followers/rishi-s22?label=Followers&style=for-the-badge&color=38BDF8&logo=github)](https://github.com/rishi-s22?tab=followers)
 [![Public Repos](https://img.shields.io/badge/Public_Repositories-8-8B5CF6?style=for-the-badge&logo=git)](https://github.com/rishi-s22?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=rishi-s22&label=Engineered_Views&color=0EA5E9&style=for-the-badge)](https://github.com/rishi-s22)
 
-<br/>
-
-<!-- Core Telemetry Badges -->
-[![GitHub Followers](https://img.shields.io/github/followers/rishi-s22?label=Followers&style=for-the-badge&color=38BDF8&logo=github)](https://github.com/rishi-s22?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public_Repositories-8-8B5CF6?style=for-the-badge&logo=git)](https://github.com/rishi-s22?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=rishi-s22&label=Engineered_Views&color=0EA5E9&style=for-the-badge)](https://github.com/rishi-s22)
-
-<br/>
+<br/><br/>
 
 <!-- Real-Time Activity Graph & Streak -->
 <a href="https://github.com/rishi-s22">
-  <img src="https://streak-stats.demolab.com?user=rishi-s22&theme=tokyonight&hide_border=true&border_radius=8&type=svg" alt="GitHub Contributions & Streak" width="95%" />
+ <img src="https://streak-stats.demolab.com?user=rishi-s22&theme=tokyonight&hide_border=true&border_radius=8&type=svg&timezone=Asia%2FKolkata" alt="GitHub Contributions & Streak" width="95%" />
 </a>
+
+<br/><br/>
+
+<!-- Live Contribution Calendar -->
+<img src="https://ghchart.rshah.org/38bdf8/rishi-s22" alt="Rishi's Contribution Graph" width="100%" />
+
+<br/><br/>
 
 ### 🎨 Primary Language & Ecosystem Matrix
 
@@ -137,19 +137,25 @@
 
 </div>
 
+---
+
 ### 💡 Architectural Philosophy
 
 > *"A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable."*  
 > — **Leslie Lamport**
 
-* **Design for Degradation:** Systems must degrade gracefully under partial network partition or compute failure.
-* **Declarative Over Imperative:** If infrastructure is not written in code (IaC), it doesn't exist in production.
-* **Perception at the Edge:** Real-time inferencing demands low latency and efficient model quantization before hitting cloud backends.
+- **Design for Degradation:** Systems must degrade gracefully under partial network partition or compute failure.
+- **Declarative Over Imperative:** If infrastructure is not written in code (IaC), it doesn't exist in production.
+- **Perception at the Edge:** Real-time inferencing demands low latency and efficient model quantization before hitting cloud backends.
 
 ---
 
 <div align="center">
 
-[![Direct Ping](https://img.shields.io/badge/Get_In_Touch-rishiksrivathsava22@gmail.com-blue?style=flat-square&logo=mail.ru)](mailto:rishiksrivathsava22@gmail.com)
+*“Simplicity is prerequisite for reliability.”*
+
+<br/><br/>
+
+[![Direct Ping](https://img.shields.io/badge/Get_In_Touch-thalluririshi24@gmail.com-blue?style=flat-square&logo=mail.ru)](mailto:thalluririshi24@gmail.com)
 
 </div>
