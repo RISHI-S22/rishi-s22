@@ -78,7 +78,14 @@
 ![RBAC](https://img.shields.io/badge/Security-RBAC_Enforcement-red?style=for-the-badge)
 
 ---
+### ⚡ Active Engineering & Ongoing Projects
+#### 🧠 [Aura-OS](https://github.com/rishi-s22/Aura-OS) — Ambient Proactive Edge OS Agent
+An autonomous, local-first OS co-pilot built to eliminate the standard reactive voice wrapper model. Aura monitors background terminal runtime logs, desktop telemetry, and spatial webcam presence to proactively intervene, diagnose runtime bottlenecks, and execute desktop actions.
 
+* **Full-Duplex Speech & Barge-in:** Sub-200ms audio stream using Silero VAD, `faster-whisper`, and token-by-token TTS with hardware interrupt cancellation.
+* **Proactive OS Telemetry Interception:** Persistent background daemon capturing terminal `stderr` to autonomously diagnose failed builds, container crashes, and port collisions.
+* **Episodic Knowledge Graph:** Hybrid vector and graph memory layer (`NetworkX` + `sqlite-vec`) for chronological recall of past debugging solutions and architectural decisions.
+* **Core Requirements & Stack:** `Python 3.11+` • `Ollama (Qwen 2.5 3B)` • `Silero VAD (ONNX)` • `faster-whisper` • `ZeroMQ` • `Piper TTS` • `OpenCV / YOLOv8`
 ### 🚀 Public Repositories & Engineering Showcase
 
 #### 🤖 AI, Computer Vision & Autonomous Systems
