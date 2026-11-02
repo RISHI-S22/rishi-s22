@@ -128,12 +128,30 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 
 <br/><br/>
 
-<!-- Native Repository Contribution Grid Animation (Self-Hosted via GitHub Actions) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake.svg">
-  <img alt="Rishi's Real-Time Contribution Grid Animation" src="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
+<!-- Real-Time Contribution & Streak Telemetry -->
+<div align="center">
+
+  <!-- Quantitative Metrics -->
+  <a href="https://github.com/rishi-s22">
+    <img src="https://img.shields.io/badge/Total_Contributions-83-38BDF8?style=for-the-badge&logo=git&logoColor=white" alt="Total Contributions" />
+  </a>
+  <a href="https://github.com/rishi-s22">
+    <img src="https://img.shields.io/badge/Current_Streak-6_Days-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak" />
+  </a>
+  <a href="https://github.com/rishi-s22">
+    <img src="https://img.shields.io/badge/Active_Sprint-Aura--OS_Phase_1-8B5CF6?style=for-the-badge&logo=target&logoColor=white" alt="Active Focus" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Interactive Activity Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake.svg">
+    <img alt="Rishi's Real-Time Contribution Grid Animation" src="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  </picture>
+
+</div>
 
 <br/><br/>
 
