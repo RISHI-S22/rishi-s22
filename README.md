@@ -24,6 +24,7 @@
 ### 🌐 Engineering & Architecture Overview
 
 - 🤖 **Computer Vision & Autonomous Perception:** Architecting real-time video intelligence pipelines utilizing YOLOv8, ByteTrack, MediaPipe, OpenCV, and PyTorch for urban safety, smart traffic, and biomechanical measurement.
+- 🧠 **Autonomous OS Agents & Edge AI:** Engineering proactive ambient OS agents featuring full-duplex interruptible voice, terminal stderr telemetry interception, and hierarchical episodic graph memory.
 - ☁️ **Cloud Native & Enterprise DevOps:** Engineering multi-stage containerized deployments, Kubernetes orchestration, infrastructure as code with Terraform & Ansible, and observability with ELK / Grafana.
 - ⚙️ **Full-Stack & Distributed Systems:** Delivering production backends with FastAPI, Node.js, Spring Boot, Supabase, and Next.js featuring enterprise auth standards (OAuth 2.0, TOTP MFA, RBAC).
 - 📐 **System Modeling & Specifications:** Designing technical specs, class models, and distributed deployment diagrams using PlantUML and clean Figma light-mode design tokens.
@@ -39,12 +40,13 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![ByteTrack](https://img.shields.io/badge/ByteTrack-Tracking-blueviolet?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/faster--whisper-STT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-Event_Bus-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB6420?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Pillow](https://img.shields.io/badge/Pillow-PIL-blue?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### ⚙️ Backend, Frameworks & Web Platforms
@@ -80,7 +82,6 @@
 ---
 
 ### ⚡ Active Engineering & Ongoing Projects
-
 #### 🧠 [Aura-OS](https://github.com/rishi-s22/Aura-OS) — Ambient Proactive Edge OS Agent
 An autonomous, local-first OS co-pilot built to eliminate the standard reactive voice wrapper model. Aura monitors background terminal runtime logs, desktop telemetry, and spatial webcam presence to proactively intervene, diagnose runtime bottlenecks, and execute desktop actions.
 
@@ -96,7 +97,7 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 #### 🤖 AI, Computer Vision & Autonomous Systems
 | Repository | Description | Primary Stack | Access |
 | :--- | :--- | :--- | :---: |
-| **[Aura-OS](https://github.com/rishi-s22/Aura-OS)** | Ambient proactive edge OS co-pilot featuring full-duplex speech, real-time multimodal grounding, and episodic graph memory. | `Python` `Qwen2.5` `ZeroMQ` `Silero-VAD` | [Inspect Code](https://github.com/rishi-s22/Aura-OS) |
+| **[Aura-OS](https://github.com/rishi-s22/Aura-OS)** | Ambient proactive edge OS co-pilot featuring full-duplex speech, real-time multimodal grounding, and episodic graph memory. | `Python` `Qwen2.5` `ZeroMQ` `Whisper` `Silero-VAD` | [Inspect Code](https://github.com/rishi-s22/Aura-OS) |
 | **[sizcal](https://github.com/rishi-s22/sizcal)** | AI-powered computer vision engine capturing real-time body measurements via webcam and matching brand sizing charts across e-commerce. | `FastAPI` `PyTorch` `OpenCV` `MediaPipe` | [Inspect Code](https://github.com/rishi-s22/sizcal) |
 | **[TrafficHub](https://github.com/rishi-s22/TrafficHub)** | Intelligent traffic monitoring platform transforming CCTV video feeds into telemetry via YOLOv8 object detection and ByteTrack tracking. | `Python` `YOLOv8` `ByteTrack` `HTML5` | [Inspect Code](https://github.com/rishi-s22/TrafficHub) |
 | **[vigil-os](https://github.com/rishi-s22/vigil-os)** | AI-driven surveillance and incident intelligence platform using computer vision for road accident detection and emergency dispatch support. | `TypeScript` `Computer Vision` `Next.js` | [Inspect Code](https://github.com/rishi-s22/vigil-os) |
@@ -127,10 +128,12 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 
 <br/><br/>
 
-<!-- Real-Time Activity Graph & Streak -->
-<a href="https://github.com/rishi-s22">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishi-s22&theme=tokyonight&hide_border=true&border_radius=8&type=svg&timezone=Asia%2FKolkata" alt="GitHub Contributions & Streak" width="95%" />
-</a>
+<!-- Native Repository Contribution Grid Animation (Self-Hosted via GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake.svg">
+  <img alt="Rishi's Real-Time Contribution Grid Animation" src="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</picture>
 
 <br/><br/>
 
@@ -143,7 +146,7 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 
 | Primary Language | Specialized Focus & Frameworks | Architecture Tier | Proficiency |
 | :---: | :--- | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `FastAPI` `PyTorch` `OpenCV` `MediaPipe` `YOLOv8` `NumPy` `Pandas` | ![AI & Edge](https://img.shields.io/badge/AI_%26_Perception-0284C7?style=flat-square) | ![Advanced](https://img.shields.io/badge/95%25-10B981?style=flat-square) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `FastAPI` `PyTorch` `OpenCV` `MediaPipe` `YOLOv8` `ZeroMQ` `Whisper` | ![AI & Edge](https://img.shields.io/badge/AI_%26_Perception-0284C7?style=flat-square) | ![Advanced](https://img.shields.io/badge/95%25-10B981?style=flat-square) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `Next.js` `Node.js` `Express` `React` `TailwindCSS` | ![Full-Stack](https://img.shields.io/badge/Full--Stack_Core-6366F1?style=flat-square) | ![Proficient](https://img.shields.io/badge/88%25-10B981?style=flat-square) |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `Spring Boot` `Spring Security` `Hibernate` `Maven` `RBAC Core` | ![Enterprise](https://img.shields.io/badge/Enterprise_API-D97706?style=flat-square) | ![Proficient](https://img.shields.io/badge/85%25-10B981?style=flat-square) |
 | ![HCL / YAML](https://img.shields.io/badge/IaC_&_YAML-844FBA?style=flat-square&logo=terraform&logoColor=white) | `Terraform` `Ansible` `Kubernetes Manifests` `Docker Compose` | ![DevOps](https://img.shields.io/badge/Cloud_Infra-EF4444?style=flat-square) | ![Advanced](https://img.shields.io/badge/90%25-10B981?style=flat-square) |
@@ -171,5 +174,3 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 <br/><br/>
 
 [![Direct Ping](https://img.shields.io/badge/Get_In_Touch-thalluririshi24@gmail.com-blue?style=flat-square&logo=mail.ru)](mailto:thalluririshi24@gmail.com)
-
-</div>
