@@ -78,19 +78,25 @@
 ![RBAC](https://img.shields.io/badge/Security-RBAC_Enforcement-red?style=for-the-badge)
 
 ---
+
 ### ⚡ Active Engineering & Ongoing Projects
+
 #### 🧠 [Aura-OS](https://github.com/rishi-s22/Aura-OS) — Ambient Proactive Edge OS Agent
 An autonomous, local-first OS co-pilot built to eliminate the standard reactive voice wrapper model. Aura monitors background terminal runtime logs, desktop telemetry, and spatial webcam presence to proactively intervene, diagnose runtime bottlenecks, and execute desktop actions.
 
-* **Full-Duplex Speech & Barge-in:** Sub-200ms audio stream using Silero VAD, `faster-whisper`, and token-by-token TTS with hardware interrupt cancellation.
-* **Proactive OS Telemetry Interception:** Persistent background daemon capturing terminal `stderr` to autonomously diagnose failed builds, container crashes, and port collisions.
-* **Episodic Knowledge Graph:** Hybrid vector and graph memory layer (`NetworkX` + `sqlite-vec`) for chronological recall of past debugging solutions and architectural decisions.
-* **Core Requirements & Stack:** `Python 3.11+` • `Ollama (Qwen 2.5 3B)` • `Silero VAD (ONNX)` • `faster-whisper` • `ZeroMQ` • `Piper TTS` • `OpenCV / YOLOv8`
+- **Full-Duplex Speech & Barge-in:** Sub-200ms audio stream using Silero VAD, `faster-whisper`, and token-by-token TTS with hardware interrupt cancellation.
+- **Proactive OS Telemetry Interception:** Persistent background daemon capturing terminal `stderr` to autonomously diagnose failed builds, container crashes, and port collisions.
+- **Episodic Knowledge Graph:** Hybrid vector and graph memory layer (`NetworkX` + `sqlite-vec`) for chronological recall of past debugging solutions and architectural decisions.
+- **Core Requirements & Stack:** `Python 3.11+` • `Ollama (Qwen 2.5 3B)` • `Silero VAD (ONNX)` • `faster-whisper` • `ZeroMQ` • `Piper TTS` • `OpenCV / YOLOv8`
+
+---
+
 ### 🚀 Public Repositories & Engineering Showcase
 
 #### 🤖 AI, Computer Vision & Autonomous Systems
 | Repository | Description | Primary Stack | Access |
 | :--- | :--- | :--- | :---: |
+| **[Aura-OS](https://github.com/rishi-s22/Aura-OS)** | Ambient proactive edge OS co-pilot featuring full-duplex speech, real-time multimodal grounding, and episodic graph memory. | `Python` `Qwen2.5` `ZeroMQ` `Silero-VAD` | [Inspect Code](https://github.com/rishi-s22/Aura-OS) |
 | **[sizcal](https://github.com/rishi-s22/sizcal)** | AI-powered computer vision engine capturing real-time body measurements via webcam and matching brand sizing charts across e-commerce. | `FastAPI` `PyTorch` `OpenCV` `MediaPipe` | [Inspect Code](https://github.com/rishi-s22/sizcal) |
 | **[TrafficHub](https://github.com/rishi-s22/TrafficHub)** | Intelligent traffic monitoring platform transforming CCTV video feeds into telemetry via YOLOv8 object detection and ByteTrack tracking. | `Python` `YOLOv8` `ByteTrack` `HTML5` | [Inspect Code](https://github.com/rishi-s22/TrafficHub) |
 | **[vigil-os](https://github.com/rishi-s22/vigil-os)** | AI-driven surveillance and incident intelligence platform using computer vision for road accident detection and emergency dispatch support. | `TypeScript` `Computer Vision` `Next.js` | [Inspect Code](https://github.com/rishi-s22/vigil-os) |
@@ -109,20 +115,21 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 | **[RISHI-S22.github.io](https://github.com/rishi-s22/RISHI-S22.github.io)** | Personal developer portfolio deployment detailing production architectures, interactive demos, and active projects. | `HTML5` `CSS3` `JavaScript` | [Inspect Code](https://github.com/rishi-s22/RISHI-S22.github.io) |
 
 ---
+
 ### 📊 System Telemetry & Activity Metrics
 
 <div align="center">
 
-<!-- Core Telemetry Badges (Single Set) -->
+<!-- Core Telemetry Badges -->
 [![GitHub Followers](https://img.shields.io/github/followers/rishi-s22?label=Followers&style=for-the-badge&color=38BDF8&logo=github)](https://github.com/rishi-s22?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public_Repositories-8-8B5CF6?style=for-the-badge&logo=git)](https://github.com/rishi-s22?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repositories-9-8B5CF6?style=for-the-badge&logo=git)](https://github.com/rishi-s22?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=rishi-s22&label=Engineered_Views&color=0EA5E9&style=for-the-badge)](https://github.com/rishi-s22)
 
 <br/><br/>
 
 <!-- Real-Time Activity Graph & Streak -->
 <a href="https://github.com/rishi-s22">
- <img src="https://streak-stats.demolab.com?user=rishi-s22&theme=tokyonight&hide_border=true&border_radius=8&type=svg&timezone=Asia%2FKolkata" alt="GitHub Contributions & Streak" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishi-s22&theme=tokyonight&hide_border=true&border_radius=8&type=svg&timezone=Asia%2FKolkata" alt="GitHub Contributions & Streak" width="95%" />
 </a>
 
 <br/><br/>
