@@ -2,7 +2,7 @@ name: Generate Profile Contribution Metrics
 
 on:
   schedule:
-    # Runs automatically at midnight UTC
+    # Runs at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -10,13 +10,15 @@ on:
       - main
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
+      - uses: actions/checkout@v4
+
+      # 1. Generate Snake Animation
       - name: Generate Contribution Grid Animation
         uses: Platane/snk@v3
         with:
@@ -25,7 +27,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to Output Branch
+      # 2. Push generated assets to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
