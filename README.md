@@ -131,13 +131,7 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 <!-- Real-Time Contribution & Streak Telemetry -->
 <div align="center">
   <a href="https://github.com/rishi-s22">
-    <img src="https://img.shields.io/badge/Total_Contributions-87-38BDF8?style=for-the-badge&logo=git&logoColor=white&v=3" alt="Total Contributions" />
-  </a>
-  <a href="https://github.com/rishi-s22">
-    <img src="https://img.shields.io/badge/Current_Streak-8_Days-10B981?style=for-the-badge&logo=github&logoColor=white&v=3" alt="Current Streak" />
-  </a>
-  <a href="https://github.com/rishi-s22">
-    <img src="https://img.shields.io/badge/Active_Sprint-Aura--OS_Phase_1-8B5CF6?style=for-the-badge&logo=target&logoColor=white" alt="Active Focus" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=rishi-s22&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="Rishi's GitHub Stats" width="80%" />
   </a>
 </div>
 
