@@ -1,8 +1,7 @@
-name: Generate Koi Animation
+name: Generate Contribution Animation
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -17,15 +16,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Koi SVG
-        uses: dogue/gh-action-koi@main
+      - name: Generate Contribution Grid Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/koi.svg
-            dist/koi-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy SVG to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
