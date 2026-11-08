@@ -137,9 +137,13 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 
 <br/>
 
-<!-- Real-Time Contribution Activity Animation -->
+<!-- Animated Contribution Pond Grid -->
 <div align="center">
-  <img src="./koi/koi.gif" alt="Rishi's Activity Koi Animation" width="450" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake.svg">
+    <img alt="Real-Time Contribution Activity Grid" src="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/><br/>
