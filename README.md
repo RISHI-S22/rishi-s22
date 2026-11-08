@@ -138,11 +138,9 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 <br/>
 
 <!-- Real-Time Contribution Activity Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/koi-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/koi.svg">
-  <img alt="Rishi's Activity Koi Animation" src="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/koi-dark.svg" width="95%" />
-</picture>
+<div align="center">
+  <img src="./koi/koi.gif" alt="Rishi's Activity Koi Animation" width="450" />
+</div>
 
 <br/><br/>
 
