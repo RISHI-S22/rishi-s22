@@ -128,26 +128,23 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 
 <br/><br/>
 
-<!-- Real-Time Contribution & Streak Telemetry -->
+<!-- Real-Time Contribution Stats -->
 <div align="center">
   <a href="https://github.com/rishi-s22">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=rishi-s22&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="Rishi's GitHub Stats" width="80%" />
   </a>
 </div>
 
-  <!-- Interactive Activity Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake.svg">
-    <img alt="Rishi's Real-Time Contribution Grid Animation" src="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/github-contribution-grid-snake-dark.svg" width="95%" />
-  </picture>
+<br/>
+
+<!-- Real-Time Contribution Activity Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/koi-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/koi.svg">
+  <img alt="Rishi's Activity Koi Animation" src="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/koi-dark.svg" width="95%" />
+</picture>
 
 </div>
-
-<br/><br/>
-
-<!-- Live Contribution Calendar -->
-<img src="https://ghchart.rshah.org/38bdf8/rishi-s22" alt="Rishi's Contribution Graph" width="100%" />
 
 <br/><br/>
 
@@ -160,8 +157,6 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `Spring Boot` `Spring Security` `Hibernate` `Maven` `RBAC Core` | ![Enterprise](https://img.shields.io/badge/Enterprise_API-D97706?style=flat-square) | ![Proficient](https://img.shields.io/badge/85%25-10B981?style=flat-square) |
 | ![HCL / YAML](https://img.shields.io/badge/IaC_&_YAML-844FBA?style=flat-square&logo=terraform&logoColor=white) | `Terraform` `Ansible` `Kubernetes Manifests` `Docker Compose` | ![DevOps](https://img.shields.io/badge/Cloud_Infra-EF4444?style=flat-square) | ![Advanced](https://img.shields.io/badge/90%25-10B981?style=flat-square) |
 | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | `PostgreSQL` `SQLite` `Relational Schemas` `Query Optimization` | ![Persistence](https://img.shields.io/badge/Data_Tier-8B5CF6?style=flat-square) | ![Proficient](https://img.shields.io/badge/85%25-10B981?style=flat-square) |
-
-</div>
 
 ---
 
@@ -183,3 +178,5 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 <br/><br/>
 
 [![Direct Ping](https://img.shields.io/badge/Get_In_Touch-thalluririshi24@gmail.com-blue?style=flat-square&logo=mail.ru)](mailto:thalluririshi24@gmail.com)
+
+</div>
