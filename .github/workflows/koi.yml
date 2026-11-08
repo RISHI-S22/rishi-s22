@@ -1,8 +1,8 @@
-name: Generate Profile Koi
+name: Generate Contribution Pond
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at midnight
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -12,22 +12,23 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Koi
-        uses: yalongwastaken/git-koi@main
+      - name: Generate Contribution Grid Animation
+        uses: Platane/snk@v3
         with:
-          login: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#38bdf8&color_dots=#1e293b,#0284c7,#38bdf8,#7dd3fc,#bae6fd
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#0f172a,#0369a1,#0284c7,#38bdf8,#7dd3fc
 
-      - name: Commit and Push Koi Asset
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --staged --quiet || git commit -m "chore: update profile koi"
-          git push
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
