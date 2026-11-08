@@ -144,8 +144,6 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
   <img alt="Rishi's Activity Koi Animation" src="https://raw.githubusercontent.com/rishi-s22/rishi-s22/output/koi-dark.svg" width="95%" />
 </picture>
 
-</div>
-
 <br/><br/>
 
 ### 🎨 Primary Language & Ecosystem Matrix
