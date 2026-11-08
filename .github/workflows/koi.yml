@@ -21,9 +21,8 @@ jobs:
       - name: Generate Koi
         uses: yalongwastaken/git-koi@main
         with:
-          user: ${{ github.repository_owner }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          login: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Koi Asset
         run: |
