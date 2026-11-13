@@ -131,7 +131,7 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 <!-- Real-Time Contribution Stats -->
 <div align="center">
   <a href="https://github.com/rishi-s22">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=rishi-s22&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="Rishi's GitHub Stats" width="80%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi-s22&theme=tokyonight&hide_border=true&border_radius=8" alt="Rishi's GitHub Stats" width="80%" />
   </a>
 </div>
 
@@ -146,7 +146,9 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
   </picture>
 </div>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### 🎨 Primary Language & Ecosystem Matrix
 
@@ -155,7 +157,7 @@ An autonomous, local-first OS co-pilot built to eliminate the standard reactive 
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `FastAPI` `PyTorch` `OpenCV` `MediaPipe` `YOLOv8` `ZeroMQ` `Whisper` | ![AI & Edge](https://img.shields.io/badge/AI_%26_Perception-0284C7?style=flat-square) | ![Advanced](https://img.shields.io/badge/95%25-10B981?style=flat-square) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `Next.js` `Node.js` `Express` `React` `TailwindCSS` | ![Full-Stack](https://img.shields.io/badge/Full--Stack_Core-6366F1?style=flat-square) | ![Proficient](https://img.shields.io/badge/88%25-10B981?style=flat-square) |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `Spring Boot` `Spring Security` `Hibernate` `Maven` `RBAC Core` | ![Enterprise](https://img.shields.io/badge/Enterprise_API-D97706?style=flat-square) | ![Proficient](https://img.shields.io/badge/85%25-10B981?style=flat-square) |
-| ![HCL / YAML](https://img.shields.io/badge/IaC_&_YAML-844FBA?style=flat-square&logo=terraform&logoColor=white) | `Terraform` `Ansible` `Kubernetes Manifests` `Docker Compose` | ![DevOps](https://img.shields.io/badge/Cloud_Infra-EF4444?style=flat-square) | ![Advanced](https://img.shields.io/badge/90%25-10B981?style=flat-square) |
+| ![HCL / YAML](https://img.shields.io/badge/IaC_%26_YAML-844FBA?style=flat-square&logo=terraform&logoColor=white) | `Terraform` `Ansible` `Kubernetes Manifests` `Docker Compose` | ![DevOps](https://img.shields.io/badge/Cloud_Infra-EF4444?style=flat-square) | ![Advanced](https://img.shields.io/badge/90%25-10B981?style=flat-square) |
 | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | `PostgreSQL` `SQLite` `Relational Schemas` `Query Optimization` | ![Persistence](https://img.shields.io/badge/Data_Tier-8B5CF6?style=flat-square) | ![Proficient](https://img.shields.io/badge/85%25-10B981?style=flat-square) |
 
 ---
